@@ -1,0 +1,11 @@
+.title{
+    font-size:48px;
+    background-color:rgb(223, 122, 28);
+    text-align:center;
+}
+.nano{
+    font-size:18px;
+}
+.nano.title {
+    font-family:'Times New Roman', Times, serif
+}
