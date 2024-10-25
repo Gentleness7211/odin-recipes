@@ -1,12 +1,36 @@
 .title{
-    text-decoration:underline;
+    border-left:10px solid orange;
+    border-bottom:10px solid orange;
+    padding:8px;
+    margin-bottom:20px;
+}
+.subtitle{
     font-size:24px;
+    padding-top:20px;
+    font-family:'Times New Roman', Times, serif;
 }
 li{
     font-size:20px;
+    padding:5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.step-step{
+    font-size:20px;
+    padding:5px
+}
+.step1{
+    font-size:20px;
+    padding-left:5px
+}
+.step{
+    font-size:20px;
+    padding-top:25px;
+    padding-left:5px;
 }
 p{
-    font-size:18px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div{
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -14,3 +38,26 @@ div{
 button{
     font-size:20px;
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
