@@ -18,9 +18,32 @@
 
 
 .link{
-    font-size:20px;
-    border-left:#5f5a5aa6 5px solid;
+    font-size:28px;
+    border-left:brown 5px solid;
     padding: 8px;
     margin:0 auto;
     font-family:'Times New Roman', Times, serif;
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
