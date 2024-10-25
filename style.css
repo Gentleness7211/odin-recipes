@@ -1,11 +1,26 @@
 .title{
-    font-size:48px;
-    background-color:rgb(223, 122, 28);
+    font-size:40px;
+    font-family:"Sofia", sans-serif;
+    text-shadow:3px 3px 3px #ababab;
     text-align:center;
+    border: 10px orange solid;
+    padding:8px;
+    background-color:#fabc57;
 }
-.nano{
+
+.introduction{
+    font-family: "Trirong", serif;
+}
+
+.introduce{
     font-size:18px;
 }
-.nano.title {
-    font-family:'Times New Roman', Times, serif
+
+
+.link{
+    font-size:20px;
+    border-left:#5f5a5aa6 5px solid;
+    padding: 8px;
+    margin:0 auto;
+    font-family:'Times New Roman', Times, serif;
 }
